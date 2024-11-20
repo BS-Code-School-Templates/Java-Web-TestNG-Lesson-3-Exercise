@@ -2,11 +2,11 @@
   <img src="https://i.imgur.com/GEgGYUB.png" width="600" height="120" title="Code_School_Logo">
 </p>
 
-# Code School - Java - TestNG - Lesson 3 - Page Object Model
+# Code School - Java - TestNG - Lesson 3 - Exercise
 
 ## Introduction
 
-This code is an example of the Page Object Model principle applied to our tests written thus far.
+This code is the solution to the practical exercise from Lesson 3.
 
 ## Necessary Tools
 
@@ -30,10 +30,10 @@ To get the project ready to run on your machine, follow the steps below:
 * Copy the following command into the terminal, (remember, you must have [Git](https://git-scm.com/downloads) installed)
 
 ```sh
-git clone https://github.com/BS-Code-School-Templates/Java-Web-TestNG-Lesson-3-Page-Object-Model.git
+git clone https://github.com/BS-Code-School-Templates/Java-Web-TestNG-Lesson-3-Exercise.git
 ```
 * Move into the directory that you just cloned by typing
 ```sh
-cd Java-Web-TestNG-Lesson-3-Page-Object-Model
+cd Java-Web-TestNG-Lesson-3-Exercise
 ```
 * To run your test, you can use the Run button in your IDE of choice or right click anywhere in your file and click Run.
